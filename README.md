@@ -1,4 +1,5 @@
 # loopback-passport-angular
+<<<<<<< HEAD
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.0.0-rc8.
 
@@ -26,3 +27,5 @@ Run `grunt build` for building and `grunt serve` for preview.
 ## Testing
 
 Running `npm test` will run the unit tests with karma.
+=======
+>>>>>>> b3f400e46309fd62bf3154db0af1f31da2b02cdd
