@@ -13,7 +13,7 @@ angular.module('loopbackPassportAngularApp')
         url: '/acceso',
         templateUrl: 'app/main/acceso.html'
       })
-      .state('main', {
+      .state('fail', {
         url: '/fail',
         templateUrl: 'app/main/fail.html'
       });
