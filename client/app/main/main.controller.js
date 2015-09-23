@@ -10,7 +10,7 @@ function MainController($scope, $http,$window) {
   });
 
   $scope.facebookLogin = function() {
-  	$window.location.href = 'http://ec2-52-25-235-109.us-west-2.compute.amazonaws.com:3000/auth/facebook';
+  	$window.location = 'http://ec2-52-25-235-109.us-west-2.compute.amazonaws.com:3000/auth/facebook';
   }
 
 }
