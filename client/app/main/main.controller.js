@@ -1,7 +1,7 @@
 'use strict';
 (function() {
 
-function MainController($scope, $http) {
+function MainController($scope, $http,$window) {
   var self = this;
   this.awesomeThings = [];
 
